@@ -1,6 +1,6 @@
 {
   "name": "classets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Classeur frontend assets",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/classeur/classets/issues"
   },
-  "homepage": "https://github.com/classeur/classets#readme"
+  "homepage": "https://github.com/classeur/classets#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-util": "^3.0.6"
+  }
 }
