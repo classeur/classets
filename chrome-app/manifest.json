@@ -1,0 +1,23 @@
+{
+  "name": "Classeur",
+  "description": "Re-enjoy writing, with Markdown",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "api_console_project_id" : "276184199763",
+  "icons": {
+    "128": "logo-128.png"
+  },
+  "app": {
+    "urls": [
+      "http://classeur.io/",
+      "https://app.classeur.io/"
+    ],
+    "launch": {
+      "web_url": "https://app.classeur.io"
+    }
+  },
+  "offline_enabled": true,
+  "permissions": [
+    "unlimitedStorage"
+  ]
+}
