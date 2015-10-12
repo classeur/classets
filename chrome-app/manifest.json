@@ -1,7 +1,7 @@
 {
   "name": "Classeur",
   "description": "Re-enjoy writing, with Markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "api_console_project_id" : "276184199763",
   "icons": {
